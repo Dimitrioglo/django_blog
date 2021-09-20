@@ -66,7 +66,7 @@ class PostDetailView(DetailView):
 
 class PostCreateView(LoginRequiredMixin, CreateView):
     model = Post
-    fields = ['title', 'content', 'tag']
+    fields = ['title', 'content']
 
     def form_valid(self, form):
         form.instance.author = self.request.user
@@ -75,7 +75,7 @@ class PostCreateView(LoginRequiredMixin, CreateView):
 
 class PostUpdateView(LoginRequiredMixin, UserPassesTestMixin, UpdateView):
     model = Post
-    fields = ['title', 'content', 'tag']
+    fields = ['title', 'content']
 
     def form_valid(self, form):
         form.instance.author = self.request.user
@@ -102,6 +102,3 @@ class PostDeleteView(LoginRequiredMixin, UserPassesTestMixin, DeleteView):
 def about(request):
     return render(request, 'blog/about.html', {'title': 'About'})
 
-
-def books(request):
-    return render(request, 'blog/books.html', {'title': 'books'})
