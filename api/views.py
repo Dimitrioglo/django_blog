@@ -70,5 +70,4 @@ def taskUpdate(request, pk):
 def taskDelete(request, pk):
     task = Task.objects.get(id=pk)
     task.delete()
-
     return Response('item deleted')

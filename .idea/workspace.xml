@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19e68adc-2691-497d-907b-b46d1349f288" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="package.json" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/blog/urls.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/django_project/urls.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1vrybrEcpfPPGkc9PB4zdFZOCic" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowJSON Formatter.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dimitrioglo\Desktop\django_project" />
+      <recent name="C:\Users\Dimitrioglo\Desktop\django_project\api_test" />
+      <recent name="C:\Users\Dimitrioglo\Desktop\django_project\api_app\api_app" />
+      <recent name="C:\Users\Dimitrioglo\Desktop\django_project\api" />
+      <recent name="C:\Users\Dimitrioglo\Desktop\django_project\blog\templates\blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dimitrioglo\Desktop\django_project\blog\templates\blog" />
+      <recent name="C:\Users\Dimitrioglo\Desktop\django_project\users\templates\users" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.settings">
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="django_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/django_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/django_project/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="django_project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="django_project.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19e68adc-2691-497d-907b-b46d1349f288" name="Default Changelist" comment="" />
+      <created>1627334578325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627334578325</updated>
+      <workItem from="1627334580319" duration="1950000" />
+      <workItem from="1627416949141" duration="7705000" />
+      <workItem from="1627478081382" duration="5579000" />
+      <workItem from="1627563274283" duration="9683000" />
+      <workItem from="1627575246172" duration="850000" />
+      <workItem from="1627583343672" duration="488000" />
+      <workItem from="1627583988452" duration="7012000" />
+      <workItem from="1627664173142" duration="5780000" />
+      <workItem from="1627767600877" duration="605000" />
+      <workItem from="1627805304430" duration="12591000" />
+      <workItem from="1628022701084" duration="356000" />
+      <workItem from="1628102267839" duration="2743000" />
+      <workItem from="1628105023368" duration="477000" />
+      <workItem from="1628105510179" duration="3633000" />
+      <workItem from="1628453190356" duration="8245000" />
+      <workItem from="1628466733964" duration="2021000" />
+      <workItem from="1628499615168" duration="3827000" />
+      <workItem from="1628544175095" duration="336000" />
+      <workItem from="1628583196561" duration="11375000" />
+      <workItem from="1628624812979" duration="7130000" />
+      <workItem from="1628678455824" duration="12398000" />
+      <workItem from="1628755816165" duration="1273000" />
+      <workItem from="1628792610425" duration="7825000" />
+      <workItem from="1628854255077" duration="12601000" />
+      <workItem from="1628883600435" duration="8440000" />
+      <workItem from="1628956803880" duration="3201000" />
+      <workItem from="1628975317264" duration="5372000" />
+      <workItem from="1629317273586" duration="47000" />
+      <workItem from="1629883385471" duration="1207000" />
+      <workItem from="1629920214839" duration="2633000" />
+      <workItem from="1629923419023" duration="200000" />
+      <workItem from="1629962842978" duration="5938000" />
+      <workItem from="1630175787406" duration="1343000" />
+      <workItem from="1630243468365" duration="4907000" />
+      <workItem from="1630485979957" duration="9072000" />
+      <workItem from="1630504305705" duration="4968000" />
+      <workItem from="1630513974568" duration="3840000" />
+      <workItem from="1630612546190" duration="2574000" />
+      <workItem from="1630777003657" duration="835000" />
+      <workItem from="1631104618631" duration="1404000" />
+      <workItem from="1631106106409" duration="8394000" />
+      <workItem from="1631207976702" duration="9992000" />
+      <workItem from="1631261609764" duration="9198000" />
+      <workItem from="1631310291850" duration="785000" />
+      <workItem from="1631362359484" duration="3052000" />
+      <workItem from="1631395203335" duration="4211000" />
+      <workItem from="1631443135308" duration="16278000" />
+      <workItem from="1631484921768" duration="935000" />
+      <workItem from="1631563162122" duration="4082000" />
+      <workItem from="1631648151832" duration="3315000" />
+      <workItem from="1631651478375" duration="3718000" />
+      <workItem from="1631798258080" duration="3175000" />
+      <workItem from="1631869859768" duration="1079000" />
+      <workItem from="1631871186666" duration="3435000" />
+      <workItem from="1632060046294" duration="13779000" />
+      <workItem from="1632130780839" duration="25280000" />
+      <workItem from="1632231154914" duration="2762000" />
+      <workItem from="1632347263013" duration="481000" />
+      <workItem from="1632746393487" duration="1495000" />
+      <workItem from="1632818546912" duration="1271000" />
+      <workItem from="1632819890469" duration="1877000" />
+      <workItem from="1632849795654" duration="11509000" />
+      <workItem from="1632897614900" duration="11687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/django_project$settings.coverage" NAME="settings Coverage Results" MODIFIED="1631649241521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/django_project" />
+  </component>
+</project>
